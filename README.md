@@ -1,6 +1,6 @@
 # PortfolioProjects
 
-## **Project: SQL Data Exploration**
+## **Project: [SQL Data Exploration](https://github.com/aksaraf/PortfolioProjects/blob/main/Covid_SQL.sql)**
 - Dataset: [Coronavirus(Covid 19) Deaths](https://ourworldindata.org/covid-deaths)
 - Divided the original datasets into two different datasets, covid_deaths and covid_vaccination, using excel. 
 - Created a new database 'PortfolioProjects' in ***Microsoft SQL Server Management Studio*** and uploaded both the excel files.
@@ -14,7 +14,7 @@
   - Total population vs vaccination?
 - Special thanks to [Alex The Analyst](https://github.com/AlexTheAnalyst) for the [youtube tutorial](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1)
 
-## **Project: Tableau Visulization**
+## **Project: [Tableau Visulization](https://public.tableau.com/app/profile/akshay.saraf/viz/Covid-19Dashboard_16268423182770/Dashboard1)**
 - Created excel sheets of the results I got from **SQL Data Exploration** project
 - I did some basic data cleaning in excel
 - Using these excel file in tableau, I built the following visualization
@@ -22,10 +22,10 @@
   - Bar chart for Total Deaths Per Continent
   - Map for Percent Population Infected Per Country
   - Line chart for Percent Population Infected
-  - Created a [dashboard](https://public.tableau.com/app/profile/akshay.saraf/viz/Covid-19Dashboard_16268423182770/Dashboard1) containing all 4 visualizations. 
+  - Created a dashboard containing all 4 visualizations. 
 - (You can find my other tableau visualizations [here](https://public.tableau.com/app/profile/akshay.saraf))
   
-## **Project: Data Cleaning in SQL**
+## **Project: [Data Cleaning in SQL](https://github.com/aksaraf/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20Cleaning%20Using%20SQL.sql)**
 - Dataset: [Nashville Housing Data](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx)
 - I did the following data cleaning work:
   - Standardize SaleDate column
@@ -36,7 +36,7 @@
   - Remove duplicates
   - Delete unused columns
   
-## **Project: Correlation in Python**
+## **Project: [Correlation in Python](https://github.com/aksaraf/PortfolioProjects/blob/main/Correlation%20in%20Python.ipynb)**
 - Dataset: [Movie Industry](https://www.kaggle.com/danielgrijalvas/movies)
 - Python libraries used:
   - [Numpy](https://github.com/aksaraf/PythonLibraries/blob/main/NumpyCheatSheet.ipynb)

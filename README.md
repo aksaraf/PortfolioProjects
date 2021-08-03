@@ -12,7 +12,6 @@
   - Continents with the highest death count per population?
   - Global numbers (total cases, total deaths, death percentage)
   - Total population vs vaccination?
-- Special thanks to [Alex The Analyst](https://github.com/AlexTheAnalyst) for the [youtube tutorial](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1)
 
 ## **Project: [Tableau Visulization](https://public.tableau.com/app/profile/akshay.saraf/viz/Covid-19Dashboard_16268423182770/Dashboard1)**
 - Created excel sheets of the results I got from **SQL Data Exploration** project
@@ -55,4 +54,7 @@
   - Creating correlation table using pearson, kendall, spearman method
   - Creating heatmap of correlation matrix
   - Converting object type column to numeric(category)
+
+
+Special thanks to [Alex The Analyst](https://github.com/AlexTheAnalyst) for his [youtube playlist](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f)
   
